@@ -3,7 +3,7 @@
 #
 ## Marketing Campaign Strategy
 
-The majority of players purchasing items are in the age range 15-29, and overwhelmingly identify as male. Almost 77% of purchases can be attributed to this age group. The next advertising campaign should be targeted towards males in this age range.
+The majority of players purchasing items are in the age range 15-29, and overwhelmingly identify as male. Almost 77% of purchases can be attributed to this age group. **The next advertising campaign should be targeted towards males ages 15-29.**
 ![Gender Demographics](https://github.com/bakerv/pandas-challenge/blob/main/Images/Gender%20Demographics.PNG)
 ![Age Demographics](https://github.com/bakerv/pandas-challenge/blob/main/Images/Age%20Demographics.PNG)
 
@@ -16,7 +16,7 @@ The majority of players purchasing items are in the age range 15-29, and overwhe
  #
  ![Age Statistics](https://github.com/bakerv/pandas-challenge/blob/main/Images/Age%20Statistics.PNG)
 ## Future Analysis
-A whopping 50% of items that underwent a price change ranked in the top 10 best selling items. We do not have information on the reasoning for the price change, or the sequence of prices. It is recommended that information be collected on date of purchase and price changes for use in future analysis.
+A whopping 50% of items that underwent a price change ranked in the top 10 best selling items. We do not have information on the reasoning for the price change, or the sequence of prices. I recommend that we begin to collect this information fur use in future analysis.
 #
 ![Price Changes](https://github.com/bakerv/pandas-challenge/blob/main/Images/Price%20Changes.PNG)
 
