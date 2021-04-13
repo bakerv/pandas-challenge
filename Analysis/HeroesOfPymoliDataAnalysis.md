@@ -18,5 +18,6 @@ The majority of players purchasing items are in the age range 15-29, and overwhe
 ## Future Analysis
 A whopping 50% of items that underwent a price change ranked in the top 10 best selling items. We do not have information on the reasoning for the price change, or the sequence of prices. I recommend that we begin to collect this information fur use in future analysis.
 #
+![Item Sales](https://github.com/bakerv/pandas-challenge/blob/main/Images/Item%20Sales.PNG)
 ![Price Changes](https://github.com/bakerv/pandas-challenge/blob/main/Images/Price%20Changes.PNG)
 
